@@ -43,3 +43,11 @@ The environment runs containerized services using Docker on a Linux server.
 - Security monitoring infrastructure
 - Log analysis and monitoring
 - Self-hosted service management
+
+- ## What I Learned
+
+- Deploying containerized services with Docker
+- Configuring a reverse proxy for internal applications
+- Monitoring service uptime and reliability
+- Managing a self-hosted infrastructure environment
+- Understanding security monitoring concepts
