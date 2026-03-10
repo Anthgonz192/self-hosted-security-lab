@@ -51,3 +51,10 @@ The environment runs containerized services using Docker on a Linux server.
 - Monitoring service uptime and reliability
 - Managing a self-hosted infrastructure environment
 - Understanding security monitoring concepts
+
+- ## Future Improvements
+
+- Implement automated backups
+- Add network segmentation
+- Expand SIEM log ingestion
+- Integrate additional security monitoring tools
