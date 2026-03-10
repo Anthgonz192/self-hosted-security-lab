@@ -25,7 +25,7 @@ Key components include:
 - Docker
 - Nginx Proxy Manager
 - Wazuh
-- OpenSearch
+- Vaultwarden
 - Uptime Kuma
 - Cloudflare DNS
 
@@ -40,12 +40,10 @@ Key components include:
 ## Example Services
 
 | Service | Purpose |
-|------|------|
 | Wazuh | Security monitoring and SIEM |
-| OpenSearch | Log storage and analysis |
 | Uptime Kuma | Service monitoring |
 | Nginx Proxy Manager | Reverse proxy for web services |
-| Ghost | Self-hosted blog platform |
+| Ghost | Self-hosted cybersecurity blog platform |
 
 ## Screenshots
 
