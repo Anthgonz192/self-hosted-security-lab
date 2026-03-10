@@ -25,13 +25,13 @@ The environment runs containerized services using Docker on a Linux server.
 ## Screenshots
 
 ### Docker Compose File
-![Docker Compose](screenshots/Example-docker-compose.png)
+![Docker Compose](screenshots/Example-docker-compose-file.png)
 
 ### Uptime Kuma Monitoring
 ![Uptime Kuma](screenshots/uptime-kuma-dashboard.png)
 
 ### Nginx Proxy Manager Reverse Proxy
-![NPM Dashboard](screenshots/NPM-ashboard.png)
+![NPM Dashboard](screenshots/NPM-dashboard.png)
 
 ### Self Hosted Cybersecurity Blog
 ![Cybersecurity Blog](screenshots/Self-Host-Cybersecurity-Blog.png)
