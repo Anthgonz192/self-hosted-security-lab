@@ -1,2 +1,0 @@
-
-This folder contains screenshots of the homelab environment, including dashboards, monitoring tools, and infrastructure components.
