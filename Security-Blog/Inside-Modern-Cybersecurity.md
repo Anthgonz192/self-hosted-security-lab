@@ -26,7 +26,7 @@ The post examines both sides of the debate:
 The discussion highlights that generative AI should be viewed as a **tool to assist security professionals rather than replace them**.
 
 Read the full post here:  
-**[Insert Blog Link Here]**
+(https://blog.anthonygonzohomeserver.org/is-generative-ai-good-or-bad-for-penetration-testing/)
 
 ---
 
