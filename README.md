@@ -9,7 +9,6 @@ The environment runs containerized services using Docker on a Linux server.
 - Linux
 - Docker
 - Wazuh
-- OpenSearch
 - Nginx Proxy Manager
 - Uptime Kuma
 - Cloudflare DNS
