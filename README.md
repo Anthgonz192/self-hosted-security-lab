@@ -24,17 +24,17 @@ The environment runs containerized services using Docker on a Linux server.
 
 ## Screenshots
 
-### Wazuh Security Dashboard
-![Docker file](screenshots/Example docker compose file.png
+### Docker Compose File
+![Docker Compose](screenshots/example-docker-compose.png)
 
 ### Uptime Kuma Monitoring
-![Uptime Kuma](screenshots/uptime kuma dashboard.png)
+![Uptime Kuma](screenshots/uptime-kuma-dashboard.png)
 
 ### Nginx Proxy Manager Reverse Proxy
-![Nginx Proxy Manager](screenshots/NPM dashboard.png
+![NPM Dashboard](screenshots/npm-dashboard.png)
 
-### Docker Containers Running
-![Security Blog](screenshots/Self Host Cybersecurity Blog.png)
+### Self Hosted Cybersecurity Blog
+![Cybersecurity Blog](screenshots/cybersecurity-blog.png)
 
 ## Skills Demonstrated
 
