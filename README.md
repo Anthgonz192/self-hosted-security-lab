@@ -63,6 +63,7 @@ Key components include:
 - Security monitoring infrastructure
 - Log analysis and monitoring
 - Self-hosted service management
+- Migrated system from Windows 10 to Ubuntu to support a Linux-based home server and self-hosted services.
 
 - ## What I Learned
 
